@@ -1,0 +1,19 @@
+# Binary
+app
+main
+*.exe
+*.out
+
+# Test
+*.test
+coverage.out
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
